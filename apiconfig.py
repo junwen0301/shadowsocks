@@ -3,7 +3,7 @@ NODE_ID =
 
 
 # hour,set 0 to disable
-SPEEDTEST = 0
+SPEEDTEST = 100
 CLOUDSAFE = 1
 ANTISSATTACK = 0
 AUTOEXEC = 0
